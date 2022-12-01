@@ -1,14 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
-
-const App = () => {
-
+function App() {
   return (
     <div className="App">
-      Hello world!
+      <div>Hello world!</div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
