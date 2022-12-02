@@ -1,0 +1,12 @@
+:root {
+    --primary: #8EE3EF;
+    --secondary: #AEF3E7;
+    --tertiary: #37718E;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: var(--primary);
+}
